@@ -4,7 +4,11 @@
 </head>
 <body>
 
-  <h1> Hello, World! </h1> <img src="">
+<h1>
+  Hello, World!  
+  <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30">
+</h1>
+
 
 <div>
 <a href="https://www.linkedin.com/in/bernardosoledade/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
