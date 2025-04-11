@@ -15,10 +15,14 @@
 </text>
 
 <div>
-<h2>
-  <img src="https://em-content.zobj.net/source/apple/419/technologist_1f9d1-200d-1f4bb.png" widht="20" height="20">
-  Who am I ?
-</h2>
+  <h2>
+    <img src="https://em-content.zobj.net/source/apple/419/technologist_1f9d1-200d-1f4bb.png" widht="20" height="20">
+    Who am I ?
+  </h2>
+
+  <text>
+    My name is Bernardo Soledade, I'm a technical in System Development and Bacharelor 
+  </text>
 </div>
 
 <div>
