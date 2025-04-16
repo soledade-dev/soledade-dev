@@ -22,7 +22,7 @@
 
   <text>
    My name is Bernardo Soledade. <br>
-   I am a technician in System Development and a studant of Science and Techonolgy / Science of Computing at Federal University of São Paulo (UNIFESP) 
+   I am a technician in System Development and a student of Science and Techonolgy / Science of Computing at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo (UNIFESP) </a>
   </text>
 </div>
 
