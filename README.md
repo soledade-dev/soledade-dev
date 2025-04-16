@@ -21,7 +21,7 @@
   </h2>
 
   <text>
-    My name is Bernardo Soledade, I'm a technical in System Development and Bacharelor 
+   
   </text>
 </div>
 
