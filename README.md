@@ -21,8 +21,8 @@
   </h2>
 
   <text>
-   My name is Bernardo Soledade.
-    A technical in system development and graduating science and techonolgy / science of computing at Federal University of São Paulo (UNIFESP) 
+   My name is Bernardo Soledade. <br>
+   I am a technician in System Development and a studant of Science and Techonolgy / Science of Computing at Federal University of São Paulo (UNIFESP) 
   </text>
 </div>
 
