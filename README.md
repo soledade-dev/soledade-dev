@@ -21,7 +21,8 @@
   </h2>
 
   <text>
-   
+   My name is Bernardo Soledade.
+    A technical in system development and graduating science and techonolgy / science of computing at Federal University of São Paulo (UNIFESP) 
   </text>
 </div>
 
