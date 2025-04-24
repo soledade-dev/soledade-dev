@@ -22,7 +22,7 @@
 
   <text>
    My name is Bernardo Soledade. <br>
-   I am a technician in System Development and a student of Science and Techonolgy / Science of Computing at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo (UNIFESP) </a>
+   I am a technician in System Development and a student of Science and Technology / Science of Computing at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo (UNIFESP) </a>
   </text>
 </div>
 
@@ -31,13 +31,13 @@
   <img src="https://em-content.zobj.net/source/apple/419/open-book_1f4d6.png" widht="20" height="20">
   Learning
 </h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" widht="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/640px-Antu_mysql-workbench.svg.png" widht="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" widht="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png?20210503135843" widht="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" widht="35" height="35">
-  <img src="https://img.icons8.com/color/200/html-5.png" widht="35" height=35">
-  
+ <p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
+  <img src="hhttps://i.postimg.cc/3xgZ1kJR/c.png" width="40"/>
+  <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
+  <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
+  <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
+</p>
 </div>
 
 <div>
