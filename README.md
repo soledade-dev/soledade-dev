@@ -35,8 +35,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/640px-Antu_mysql-workbench.svg.png" widht="35" height="35">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" widht="35" height="35">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png?20210503135843" widht="35" height="35">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Html-1.svg/640px-Html-1.svg.png" widht="35" height="35">
-  <img src="https://imgs.search.brave.com/YA-qxAtZqxR43TIzdJyCSWULOsn-Mbzf7iCGXk8VSYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/c3BuZy5vcmcvZG93/bmxvYWQvY3NzLTMv/bG9nby1jc3MtMy0x/MDI0LnBuZw" widht="35" height=35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" widht="35" height="35">
+  <img src="https://img.icons8.com/color/200/html-5.png" widht="35" height=35">
   
 </div>
 
