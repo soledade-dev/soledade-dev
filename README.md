@@ -33,7 +33,7 @@
 </h2>
  <p align="left">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
-  <img src="https://img.icons8.com/color/48/c-programming.png" widht="40" />
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" widht="40" height="40"/>
   <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
