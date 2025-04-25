@@ -22,7 +22,11 @@
 
   <text>
    My name is Bernardo Soledade. <br>
-   I am a technician in System Development and a student of Science and Technology / Science of Computing at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo (UNIFESP) </a>
+   My journey in tech began at a Microsoft Office workshop in São Paulo, where I first saw how technology transforms ideas into solutions. <br> Today, I'm a certified Systems Development Technician and Computer Science student at UNIFESP.
+
+With solid foundations in system development and academic training in computer science, I'm building the technical expertise to create efficient, practical solutions.
+
+
   </text>
 </div>
 
@@ -33,9 +37,9 @@
 </h2>
  <p align="left">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
-  <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
+  <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/figma/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/mysql/ffffff" widht="40" height="40"/>
