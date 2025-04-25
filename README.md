@@ -22,7 +22,7 @@
 
   <text>
    My name is Bernardo Soledade. <br>
-   My journey in tech began at a Microsoft Office workshop in São Paulo, where I first saw how technology transforms ideas into solutions. <br> Today, I'm a certified Systems Development Technician and Computer Science student at UNIFESP.
+   My journey in tech began in 2018 when I visited a Microsoft office in São Paulo, where I first saw how technology transforms ideas into solutions. <br> Today, I'm a certified Systems Development Technician and Computer Science student at UNIFESP.
 
 With solid foundations in system development and academic training in computer science, I'm building the technical expertise to create efficient, practical solutions.
 
