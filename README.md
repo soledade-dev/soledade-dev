@@ -33,12 +33,12 @@
 </h2>
  <p align="left">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" widht="40" height="40"/>
   <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/figma/ffffff" width="40" />
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" widht="40" height="40"/>
    
 </p>
 </div>
