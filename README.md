@@ -37,6 +37,7 @@
   <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
+   <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
 </p>
 </div>
 
