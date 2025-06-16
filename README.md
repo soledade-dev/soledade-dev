@@ -38,7 +38,6 @@ With solid foundations in system development and academic training in computer s
  <p align="left">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/python/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/figma/ffffff" width="40" />
