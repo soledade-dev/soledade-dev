@@ -1,37 +1,39 @@
 <!-- Banner -->
 <p align="center">
-  <h1>Olá, eu sou o Bernardo Soledade! <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="wave emoji"></h1>
+  <h1>Hello, I'm Bernardo Soledade! <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="wave emoji"></h1>
 </p>
 
 ---
 
-> <i>"A questão não é 'O que a tecnologia pode fazer?', mas sim 'O que ela deve fazer?'"</i>  
+> <i>"The question isn't 'What can technology do?' but 'What should it do?'"</i>  
 > — Tim Cook
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou técnico certificado em Desenvolvimento de Sistemas e estudante de Ciência da Computação na UNIFESP. Minha paixão por tecnologia começou em 2018, quando visitei o escritório da Microsoft em São Paulo e vi como a tecnologia transforma ideias em soluções reais.
+I am a certified Systems Development Technician and a Computer Science student at UNIFESP. My passion for technology started in 2018 when I visited the Microsoft office in São Paulo and saw how technology transforms ideas into real solutions.
 
-Estou focado em desenvolver habilidades técnicas sólidas para criar soluções eficientes, práticas e inovadoras.
+I am focused on building solid technical skills to create efficient, practical, and innovative solutions.
 
 ---
 
-## Tecnologias que estou estudando e usando
+## Technologies I'm Learning and Using
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
 </p>
 
 ---
 
-## Contato
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bernardosoledade/" target="_blank">
@@ -46,5 +48,5 @@ Estou focado em desenvolver habilidades técnicas sólidas para criar soluções
 ---
 
 <p align="center">
-  Obrigado pela visita! 🚀
+  Thanks for visiting! 🚀
 </p>
