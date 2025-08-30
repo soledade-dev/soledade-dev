@@ -1,4 +1,5 @@
-# Hello, World!  
+# Hi there, I'm Bernardo Soledade! 👋
+
 <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="wave emoji">
 
 > *"The question isn't 'What can technology do?' it's 'What should it do?'"*  
@@ -6,16 +7,17 @@
 
 ---
 
-## 👨‍💻 Who am I?
+## About Me 👨‍💻
 
-My name is **Bernardo Soledade**.  
-My journey in tech began in 2018 when I visited a Microsoft office in São Paulo and saw firsthand how technology transforms ideas into solutions. Today, I'm a certified Systems Development Technician and a Computer Science student at UNIFESP.
+I'm a passionate **Systems Development Technician** and a **Computer Science student** at UNIFESP. My tech journey started in 2018 during a visit to a Microsoft office in São Paulo, where I witnessed how technology transforms ideas into impactful solutions.
 
-With solid foundations in system development and academic training in computer science, I'm building the technical expertise to create efficient, practical solutions.
+With a strong foundation in system development and ongoing academic training, I am dedicated to building efficient, practical, and innovative software solutions.
 
 ---
 
-## 📚 Learning
+## Skills & Technologies 🚀
+
+Here are some of the technologies I'm currently learning and working with:
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" alt="JavaScript" />
@@ -28,7 +30,13 @@ With solid foundations in system development and academic training in computer s
 
 ---
 
-## 📬 Send me a message
+## Get in Touch 📫
+
+I’m always open to connecting and collaborating! Feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardosoledade/)  
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:be.soledade@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:be.soledade@outlook.com)
+
+---
+
+Thanks for visiting my profile! 🚀
