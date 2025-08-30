@@ -18,7 +18,7 @@ I am focused on building solid technical skills to create efficient, practical, 
 
 ---
 
-## Technologies I'm Learning and Using
+## Learning
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
