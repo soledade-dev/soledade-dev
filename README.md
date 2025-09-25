@@ -3,13 +3,6 @@
   <h1>Hello, I'm Bernardo Soledade! <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="wave emoji"></h1>
 </p>
 
----
-
-> <i>"The question isn't 'What can technology do?' but 'What should it do?'"</i>  
-> — Tim Cook
-
----
-
 ## About Me
 
 I am a certified Systems Development Technician and a Computer Science student at UNIFESP. My passion for technology started in 2018 when I visited the Microsoft office in São Paulo and saw how technology transforms ideas into real solutions.
