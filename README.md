@@ -20,7 +20,7 @@ Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. 
   <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" title="Power Automate" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="Power Apps" title="Power Apps" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" title="Tableau" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Lucidchart-2021.svg/revision/latest?cb=20250630143230" alt="Lucidchart" title="Lucidchart" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Lucidchart_icon.svg/revision/latest?cb=20250630143324" alt="Lucidchart" title="Lucidchart" width="48" height="48" />&nbsp;&nbsp;
   
   
   
