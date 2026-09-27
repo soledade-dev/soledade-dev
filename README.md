@@ -12,6 +12,7 @@ Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. 
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Lucidchart_icon.svg/revision/latest?cb=20250630143324" alt="Lucidchart" title="Lucidchart" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" alt="Fabric" title="Fabric" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=117558&format=png&color=000000" alt="Sharepoint" title="Sharepoint" width="48" height="48" />&nbsp;&nbsp;
@@ -20,7 +21,7 @@ Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. 
   <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" title="Power Automate" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="Power Apps" title="Power Apps" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" title="Tableau" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Lucidchart_icon.svg/revision/latest?cb=20250630143324" alt="Lucidchart" title="Lucidchart" width="48" height="48" />&nbsp;&nbsp;
+  
   
   
   
