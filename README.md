@@ -1,4 +1,4 @@
-# Bernardo Soledade <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="Emoji acenando" />
+# Olá, sou Bernardo Soledade! <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="Emoji acenando" />
 
 **Análise de dados · Business Intelligence · Automação**
 
