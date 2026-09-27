@@ -1,4 +1,4 @@
-# Bernardo Soledade
+# Bernardo Soledade <img src="https://media.tenor.com/0ksFSWOphnoAAAAj/wave-emoji.gif" width="30" alt="Emoji acenando" />
 
 **Análise de dados · Business Intelligence · Automação**
 
