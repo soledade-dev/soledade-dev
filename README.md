@@ -1,4 +1,4 @@
-# Olá, sou Bernardo 👋
+# Olá, sou Bernardo Soledade👋
 
 Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. No dia a dia, construo dashboards e automações que as equipes realmente usam.
 
@@ -11,7 +11,7 @@ Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. 
 ## Ferramentas que uso
 
 <p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="48" height="48" />&nbsp;&nbsp;
