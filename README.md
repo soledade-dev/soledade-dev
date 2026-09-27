@@ -14,40 +14,20 @@ Desenvolvo dashboards e automações para apoiar o trabalho das equipes: da orga
 
 ## Ferramentas
 
-<h3>Análise e visualização</h3>
-<p>
-<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" title="Power BI" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" title="Tableau" width="36" height="36" />
-</p>
-
-Power BI · Excel · Tableau
-
-<h3>Dados e programação</h3>
-<p>
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" title="SQL" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" alt="Fabric" title="Fabric" width="36" height="36" />
-</p>
-
-Python · SQL · Fabric
-
-<h3>Automação e processos</h3>
-<p>
-<img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" title="Power Automate" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="Power Apps" title="Power Apps" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=100&id=117558&format=png&color=000000" alt="Sharepoint" title="Sharepoint" width="36" height="36" />
-&nbsp;&nbsp;
-<img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Lucidchart_icon.svg/revision/latest?cb=20250630143324" alt="Lucidchart" title="Lucidchart" width="36" height="36" />
-</p>
-
-Power Automate · Power Apps · Sharepoint · Lucidchart
+<table>
+  <tr>
+    <th align="center" width="210">📊 Business Intelligence</th>
+    <th align="center" width="210">🐍 Dados e programação</th>
+    <th align="center" width="210">⚙️ Automação e aplicações</th>
+    <th align="center" width="210">🧩 Processos e colaboração</th>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-D4A900?style=flat" /><br><img alt="Tableau" src="https://img.shields.io/badge/Tableau-1F77B4?style=flat" /><br><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat" /></td>
+    <td align="center"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" /><br><img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat" /><br><img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat" /></td>
+    <td align="center"><img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat" /><br><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?style=flat" /></td>
+    <td align="center"><img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-03787C?style=flat" /><br><img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-F08705?style=flat&amp;logo=lucid&amp;logoColor=white" /></td>
+  </tr>
+</table>
 
 ## Formação e comunidade
 
