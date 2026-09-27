@@ -2,8 +2,6 @@
 
 Desenvolvo dashboards e automações para apoiar o trabalho das equipes: da organização dos dados à visualização das informações e à execução de rotinas.
 
-[LinkedIn](https://www.linkedin.com/in/besoledade/) · [E-mail](mailto:be.soledade@outlook.com)
-
 ## O que faço
 
 - **Dashboards e análise:** desenvolvimento de painéis em Power BI utilizados pelas equipes.
