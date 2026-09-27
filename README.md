@@ -12,10 +12,16 @@ Trabalho com dados e gosto de tirar tarefas repetitivas do caminho com código. 
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" title="Power Apps" width="48" height="48" />
+  
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" title="SQL" width="48" height="48" />&nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="48" height="48" />&nbsp;&nbsp;
+  
+  <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="Power Apps" title="Power Apps" width="48" height="48" />
+
+  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" title="Power Automate" width="48" height="48" />
 </p>
 
 Power BI · Python · SQL · Excel · Power Apps
